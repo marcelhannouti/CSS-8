@@ -1,0 +1,19 @@
+body{
+    background-color: rebeccapurple;
+}
+p{
+    column-count :3;
+    column-gap: 40;
+
+column-rule-width: 2px;    
+column-rule-color: brown;
+column-rule-style: solid;
+
+}
+h1:hover{
+    color: burlywood;
+}
+p:hover{
+    color: red;
+    background-color: aqua;
+}
